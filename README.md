@@ -1,4 +1,9 @@
 # README
+I done this project using  two gems 
+
+gem 'carrierwave'   
+gem 'bootstrap-sass'  
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
